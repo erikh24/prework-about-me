@@ -68,3 +68,6 @@ section > h1 {
   display: inline-block;
   margin: 0 5px;
 }
+
+.details span {
+  filter: blur(6px);
